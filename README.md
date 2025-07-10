@@ -16,7 +16,7 @@ My goal is to build a solid foundation in structuring web content effectively an
 
 Here you'll find direct links to the daily logs for quick access to specific day's notes and exercises.
 
-* **[Day 1: Introduction & Setup (July 10, 2025)](./daily-logs/day-01-intro-setup/README.md)**
+* **[Day 1: Introduction & Setup (July 10, 2025)](./daily-logs/day-1-intro-setup/README.md)**
 * **[Day 2: Basic Content Structure (July 11, 2025)](./daily-logs/day-02-basic-content/README.md)**
 * **[Day 3: Essential Tools & Linking (July 12, 2025)](./daily-logs/day-03-tools-linking/README.md)**
 * **[Day 4: More on Attributes & Images (July 13, 2025)](./daily-logs/day-04-attributes-images/README.md)**
