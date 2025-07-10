@@ -31,7 +31,7 @@ Today, I started the foundation of my personal portfolio website.
 * Set up `project/index.html` with the basic HTML boilerplate.
 * Added the main heading and an introductory paragraph.
 
-**[View Today's Portfolio Project File (index.html)](../../-project/index.html)**
+**[View Today's Portfolio Project File (index.html)](../../project/index.html)**
 
 ---
 
