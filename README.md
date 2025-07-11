@@ -32,7 +32,7 @@ Here you'll find direct links to the daily logs for quick access to specific day
 
 This is my ongoing project, incrementally built throughout this HTML course. It serves as a practical application of all learned concepts.
 
-* **[View Project (index.html)](./my-portfolio-project/index.html)**
+* **[View Project (index.html)](./project/index.html)**
 * **[About Project (Project README)](./my-portfolio-project/README.md)**
 
 ---
