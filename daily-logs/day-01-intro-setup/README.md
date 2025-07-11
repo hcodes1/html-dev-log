@@ -45,7 +45,8 @@ Today was exciting! Getting my development environment set up with VS Code and L
 **Next Steps:**
 * Review HTML tags and elements.
 * Prepare for Day 2's focus on basic content structure.
-* Continue with daily Git commits for my progress.
+* Continue with daily Git commits for my progress.  
   
-  
-**[< Back to Main Course README](../../README.md)**
+---
+
+**[< Back to Main Log README](../../README.md)**
