@@ -2,15 +2,13 @@
 
 **Date:** July 11, 2025
 
-**[< Back to Main Course README](../../README.md)**
-
 ## Topics Covered Today
 
-* **VS Code & Live Server Usage** (0:56:56): Further familiarization with the development environment, highlighting efficiency tools.
-* **Chrome Developer Tools** (1:02:18): Introduction to inspecting HTML elements, debugging, and understanding the rendered page.
-* **HTML Links (`<a>`)** (1:06:56): Learning how to create hyperlinks to navigate between pages and external websites.
-* **Relative vs. Absolute Paths** (1:11:45): Understanding how to reference files within the same project versus external URLs.
-* **HTML Comments (``)** (1:17:10): Using comments to explain code and organize sections within an HTML document.
+* **VS Code & Live Server Usage** : Further familiarization with the development environment, highlighting efficiency tools.
+* **Chrome Developer Tools** : Introduction to inspecting HTML elements, debugging, and understanding the rendered page.
+* **HTML Links (`<a>`)** : Learning how to create hyperlinks to navigate between pages and external websites.
+* **Relative vs. Absolute Paths** : Understanding how to reference files within the same project versus external URLs.
+* **HTML Comments (``)** : Using comments to explain code and organize sections within an HTML document.
 
 ## Key Concepts & Takeaways
 
