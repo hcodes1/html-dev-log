@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Checkbox and Radio Form with Validation</title>
+</head>
+<body>
+
+    <h2>Event Registration Form</h2>
+
+    <p>
+        <label for="attendeeName">Full Name:</label>
+        <input type="text" id="attendeeName" name="attendeeName" required minlength="3"><br>
+    </p>
+
+    <p>
+        <label for="attendeeEmail">Email Address:</label>
+        <input type="email" id="attendeeEmail" name="attendeeEmail" required><br>
+    </p>
+
+    ---
+
+    <h3>Choose Your Preferred Session (Select One):</h3>
+    <p>
+        <input type="radio" id="sessionMorning" name="eventSession" value="morning" required>
+        <label for="sessionMorning">Morning Session (9:00 AM - 12:00 PM)</label><br>
+
+        <input type="radio" id="sessionAfternoon" name="eventSession" value="afternoon">
+        <label for="sessionAfternoon">Afternoon Session (1:00 PM - 4:00 PM)</label><br>
+
+        <input type="radio" id="sessionEvening" name="eventSession" value="evening">
+        <label for="sessionEvening">Evening Session (5:00 PM - 8:00 PM)</label><br>
+    </p>
+
+    ---
+
+    <h3>Select Interests (Check all that apply):</h3>
+    <p>
+        <input type="checkbox" id="interestTech" name="interests" value="technology">
+        <label for="interestTech">Technology & Innovation</label><br>
+
+        <input type="checkbox" id="interestBusiness" name="interests" value="business">
+        <label for="interestBusiness">Business & Entrepreneurship</label><br>
+
+        <input type="checkbox" id="interestCreative" name="interests" value="creative">
+        <label for="interestCreative">Creative Arts & Design</label><br>
+
+        <input type="checkbox" id="interestWellness" name="interests" value="wellness">
+        <label for="interestWellness">Health & Wellness</label><br>
+
+        <input type="checkbox" id="interestEducation" name="interests" value="education">
+        <label for="interestEducation">Education & Learning</label><br>
+    </p>
+
+    ---
+
+    <p>
+        <input type="checkbox" id="agreeTerms" name="agreeTerms" value="yes" required>
+        <label for="agreeTerms">I agree to the <a href="#">terms and conditions</a>.</label><br>
+        </p>
+
+    <p>
+        <button type="submit">Register for Event</button>
+    </p>
+
+</body>
+</html>
