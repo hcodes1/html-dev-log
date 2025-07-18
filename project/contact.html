@@ -21,10 +21,26 @@
 
   <form action="#" method="post">
     <p>
-    Your Name: <input type="text" name="fullname">
+    <label for="fullname">Your Name:</label><br>
+    <input type="text" id="fullname" name="fullname">
   </p>
   <p>
-    Your Email: <input type="email" name="userEmail">
+    <label for="userEmail">Your Email:</label><br>
+    <input type="email" id="userEmail" name="userEmail">
+  </p>
+  <p>
+    <label for="message">Your Message:</label><br>
+    <textarea id="message" name="userMessage" rows="5" cols="40"></textarea>
+  </p>
+  <p>
+    <label for="contactReason">Reason for Contact:</label><br>
+    <select id="contactReason" name="contactReason">
+      <option value="">--Please choose an option--</option>
+      <option value="general">General Inquiry</option>
+      <option value="collaboration">Collaboration Opportunity</option>
+      <option value="feedback">Website Feedback</option>
+      <option value="other">Other</option>
+    </select>
   </p>
 </form>
 </body>
