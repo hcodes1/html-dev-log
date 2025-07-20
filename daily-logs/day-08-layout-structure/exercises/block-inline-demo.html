@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Block vs. Inline Elements</title>
+</head>
+<body>
+
+    <h1>Understanding Block and Inline Elements</h1>
+
+    <h2>Block-Level Elements:</h2>
+    <p>Block-level elements always start on a new line and take up the full width available, pushing other elements below them. Think of them as distinct "blocks" of content.</p>
+
+    <p>This is a paragraph (`<p>`). It's a block-level element, so it starts on a new line and occupies its own space.</p>
+
+    <h1>This is a Heading 1 (`<h1>`). It's also a block-level element.</h1>
+
+    <ul>
+        <li>List Item 1 (`<li>` inside `<ul>`)</li>
+        <li>List Item 2 (`<li>` inside `<ul>`)</li>
+        <li>List Item 3 (`<li>` inside `<ul>`)</li>
+    </ul>
+    <p>Unordered lists (`<ul>`) and list items (`<li>`) are block-level by default.</p>
+
+    <blockquote>
+        This is a blockquote (`<blockquote>`). It's used for quoting larger sections of text and is a block-level element, typically rendered with margins.
+    </blockquote>
+
+    <address>
+        Written by: John Doe<br>
+        Visit us at:<br>
+        123 Web Street<br>
+        Internet City, WC 98765
+    </address>
+    <p>The address element (`<address>`) is also a block-level element.</p>
+
+    <hr>
+    <p>A horizontal rule (`<hr>`) is a block-level element, creating a thematic break and appearing on its own line.</p>
+
+    <h2>Inline-Level Elements:</h2>
+    <p>Inline-level elements do not start on a new line and only take up as much width as their content requires. They flow within the text content of a block-level element.</p>
+
+    <p>
+        This is some normal text.
+        <span>This is a span element (`<span>`).</span>
+        It's an inline element, so it stays on the same line as the surrounding text.
+        <br>
+        Here's another example:
+        <a href="https://example.com">This is a link (`<a>`).</a>
+        It also behaves as an inline element.
+    </p>
+
+    <p>
+        Let's make some text <strong>strong (`<strong>`)</strong> and some text <em>emphasized (`<em>`)</em>.
+        Both `<strong>` and `<em>` are inline elements.
+    </p>
+
+    <p>
+        You can also include an <img src="https://placehold.co/50x50/cccccc/000000?text=IMG" alt="Example Image"> image (`<img>`) inline,
+        and it will flow with the text.
+    </p>
+
+    <p>
+        Here's some `<code>` inline code (`<code>`).
+        It's often used for short snippets of code within a paragraph.
+    </p>
+
+    <p>
+        This is a <small>small (`<small>`) text</small> example.
+        And this is a <b>bold (`<b>`) text</b>.
+        Both are inline.
+    </p>
+
+</body>
+</html>

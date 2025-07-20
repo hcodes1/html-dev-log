@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grouping Content with Div and Span</title>
+</head>
+<body>
+
+    <h1>Grouping Content Examples</h1>
+
+    <h2>Using &lt;div&gt; for Block-Level Grouping:</h2>
+
+    <!-- A div to group a section about personal information -->
+    <div>
+        <h3>Personal Information</h3>
+        <p>This is a paragraph inside the first div. A div is a block-level element, so it will typically start on a new line and take up the full available width.</p>
+        <p>Another paragraph in the same div, demonstrating how multiple elements can be grouped together.</p>
+    </div>
+
+    <!-- A div to group a section about contact details -->
+    <div>
+        <h3>Contact Details</h3>
+        <p>Email: example@example.com</p>
+        <p>Phone: 123-456-7890</p>
+        <p>Address: 456 Main St, Anytown, USA</p>
+    </div>
+
+    <hr> <!-- A horizontal rule to visually separate sections -->
+
+    <h2>Using &lt;span&gt; for Inline-Level Grouping:</h2>
+
+    <p>
+        This sentence contains some text.
+        <!-- A span to highlight a specific word -->
+        <span>This word is grouped by a span.</span>
+        Notice how it stays on the same line.
+    </p>
+
+    <p>
+        Here is another sentence with
+        <!-- A span to apply a logical grouping to a phrase -->
+        <span>a phrase that is grouped together</span>
+        using a span element. Spans are useful for applying styles or scripts to small parts of text without breaking the flow.
+    </p>
+
+    <p>
+        Consider this product:
+        <span>Product Name: Super Widget</span>
+        <span>Price: $19.99</span>
+        <span>Availability: In Stock</span>
+        <br>
+        Even though these spans are on separate lines in the code, they will render inline because `span` is an inline element.
+    </p>
+
+    <p>
+        A sentence with an <img src="https://placehold.co/40x40/cccccc/000000?text=ICON" alt="Icon">
+        <span>inline image and text grouped together.</span>
+        The span helps keep them as one conceptual unit on the line.
+    </p>
+
+</body>
+</html>
