@@ -36,8 +36,8 @@ Today, I added a structured project overview to my portfolio and experimented wi
 * Implemented a detailed `<table>` in `projects.html` to list my projects with their technologies, status, and completion dates. Used `<thead>`, `<tbody>`, `<tr>`, `<th>`, and `<td>`.
 * (Optional) Incorporated `<sup>`, `<sub>`, and `<code>` tags into my `index.html` to practice these specific elements, such as in my skills list or about me section.
 
-**[View Today's Portfolio Project File (index.html)](../../my-portfolio-project/index.html)**
-**[View Today's Portfolio Project File (projects.html)](../../my-portfolio-project/projects.html)**
+**[View Today's Portfolio Project File (index.html)](../../project/index.html)**
+**[View Today's Portfolio Project File (projects.html)](../../project/projects.html)**
 
 ---
 
