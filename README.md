@@ -26,7 +26,7 @@ Here you'll find direct links to the daily logs for quick access to specific day
 * **[Day 8: Layout & Structure Fundamentals (July 20, 2025)](./daily-logs/day-08-layout-structure/README.md)**
 * **[Day 9: Semantic HTML (July 21, 2025)](./daily-logs/day-09-semantic-html/README.md)**
 * **[Day 10: Tables & Scientific Elements (July 21, 2025)](./daily-logs/day-10-tables-scientific/README.md)**
-* **[Day 11: Project Work & Final Review (July 20, 2025)](./daily-logs/day-11-project-review/README.md)**
+* **[Day 11: Project Work & Final Review (July 23, 2025)](./daily-logs/day-11-project-review/README.md)**
 
 ## My Portfolio Project
 
